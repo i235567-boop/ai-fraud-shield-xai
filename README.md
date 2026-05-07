@@ -1,9 +1,3 @@
-It looks like the formatting in your request got a bit tangled with extra escape characters and spacing. I have cleaned up the markdown syntax, fixed the broken code blocks, and ensured the badges and tables render correctly.
-
-Here is the corrected, ready-to-use version for your **README.md** file:
-
----
-
 # Bridging the Trust Gap in Financial Fraud Detection 🤖🔒
 
 ### An Explainable AI Framework for Regulatory Compliance
