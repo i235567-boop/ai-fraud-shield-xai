@@ -11,7 +11,7 @@
 [![Kaggle](https://img.shields.io/badge/🐍-Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 [![GitHub](https://img.shields.io/badge/💻-Code_Repository-black?logo=github)](https://github.com/i235567-boop/ai-fraud-shield-xai)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn_Post-0A66C2)](https://www.linkedin.com/in/sumyyah-saeed-b5381128b/)
-[![Website](https://img.shields.io/badge/🌐-Project_Showcase_Site-4285F4)](https://sites.google.com/d/1-3ufTzeoSx11hNnsu8ELnHtrjxF4_G5M/p/1dIiIfVHEi_CDyTPqhF885HvGKkLUDB3d/edit)
+[![Website](https://img.shields.io/badge/🌐-Project_Showcase_Site-4285F4)](https://sites.google.com/isb.nu.edu.pk/ai-fraud-shield/home)
 
 </div>
 
@@ -77,7 +77,7 @@ The framework operates in two distinct phases:
 | 📊 **Dataset (Kaggle)** | [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) |
 | 🚀 **Google Colab Notebook** | [Open in Colab](https://colab.research.google.com/drive/1Cb4ooD7PDZSxJQtuheCi23SMaNFBjp-L?usp=sharing) |
 | 🔗 **LinkedIn Post** | [Sumyyah Saeed's Post](https://www.linkedin.com/in/sumyyah-saeed-b5381128b/) |
-| 🌐 **Project Showcase Site** | [Google Site](https://sites.google.com/d/1-3ufTzeoSx11hNnsu8ELnHtrjxF4_G5M/p/1dIiIfVHEi_CDyTPqhF885HvGKkLUDB3d/edit) |
+| 🌐 **Project Showcase Site** | [Google Site](https://sites.google.com/isb.nu.edu.pk/ai-fraud-shield/home) |
 
 ---
 
