@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/📄-Research_Paper-blue.svg)]()
+[![Paper](https://img.shields.io/badge/📄-Research_Paper-blue.svg)](https://drive.google.com/file/d/111tvt2MyBlI5vyY5CQ-doZB7irjUnhp3/view?usp=sharing)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cb4ooD7PDZSxJQtuheCi23SMaNFBjp-L?usp=sharing)
-[![Kaggle](https://img.shields.io/badge/🐍-Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 [![GitHub](https://img.shields.io/badge/💻-Code_Repository-black?logo=github)](https://github.com/i235567-boop/ai-fraud-shield-xai)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn_Post-0A66C2)](https://www.linkedin.com/in/sumyyah-saeed-b5381128b/)
 [![Website](https://img.shields.io/badge/🌐-Project_Showcase_Site-4285F4)](https://sites.google.com/isb.nu.edu.pk/ai-fraud-shield/home)
