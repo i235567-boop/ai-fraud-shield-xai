@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/📄-Research_Paper-blue.svg)](https://drive.google.com/file/d/111tvt2MyBlI5vyY5CQ-doZB7irjUnhp3/view?usp=sharing)
+[![Paper](https://img.shields.io/badge/📄-Research_Paper-blue.svg)](https://drive.google.com/file/d/1TFm_6s9RACog-HvMu4a2TITDhpU3EILb/view?usp=drive_link)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cb4ooD7PDZSxJQtuheCi23SMaNFBjp-L?usp=sharing)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 [![GitHub](https://img.shields.io/badge/💻-Code_Repository-black?logo=github)](https://github.com/i235567-boop/ai-fraud-shield-xai)
