@@ -117,7 +117,7 @@ If you use this framework or reference this research, please cite:
 
 **Supervisor:** **Dr. Usama Arshad** *My most sincere and profound gratitude to Dr. Arshad for his invaluable instructional guidance and mentorship throughout this research.*
 
-**Acknowledgments:** * The Machine Learning Group at Université Libre de Bruxelles for the Kaggle dataset.
+**Acknowledgments:** The Machine Learning Group at Université Libre de Bruxelles for the Kaggle dataset.
 * The open-source communities behind SHAP, LIME, Scikit-learn, and XGBoost.
 
 ---
